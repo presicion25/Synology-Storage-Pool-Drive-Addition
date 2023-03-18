@@ -14,7 +14,7 @@ In this tutorial I will demonstrate how to add a hard drive to a storage pool in
 
 - DSM 7.1 (Disc Station Manager (Operating System)
 
-- Storage Mnager
+- DSM Storage Manager
 
 
 <h2>Main Steps</h2>
@@ -29,7 +29,7 @@ Step 1. Navigate to your synology NAS url, using your browser of choice and ente
 <br />
 <br />
 
-Step 2. Enter your passwors and log in
+Step 2. Enter your password and log in
 
 <p align="center">
 <img src="https://imgur.com/s0uOBX1.png alt="Traffic Examination"/>
