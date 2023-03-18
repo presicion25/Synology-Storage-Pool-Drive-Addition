@@ -19,7 +19,6 @@ In this tutorial I will demonstrate how to add a hard drive to a storage pool in
 
 <h2>Main Steps</h2>
 <br />
-<br />
 
 Step 1. Navigate to your synology NAS url, using your browser of choice and enter your username. For purposes of this tutorial I use Firefox.
 
