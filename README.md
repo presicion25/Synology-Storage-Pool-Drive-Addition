@@ -14,6 +14,8 @@ In this tutorial I will demonstrate how to add a hard drive to a storage pool in
 
 - DSM 7.1 (Disc Station Manager (Operating System)
 
+- Storage Mnager
+
 
 <h2>Main Steps</h2>
 <br />
