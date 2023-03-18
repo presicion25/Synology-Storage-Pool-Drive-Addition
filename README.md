@@ -117,7 +117,7 @@ Step 8. Confirm the settings and click apply
 
 
 <h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
-<h1>For a video demonstration visit Space Rex's <a href="https://www.youtube.com/watch?v=vyT55sy1xg0">Youtube channel</a>☺</h1>
+<h1>For a video demonstration visit Space Rex's <a href="https://www.youtube.com/watch?v=vyT55sy1xg0">Youtube Video</a>☺</h1>
 
 
 
