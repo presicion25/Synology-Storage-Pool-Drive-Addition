@@ -65,9 +65,8 @@ Step 5. Find the storage pool you wish to expand (if you have multiple) and clic
 
 Step 6. Find the 3 dots on the top right of the storage pool information and select add drive
 
-<p align="center">
-<img src="https://i.ibb.co/9KMSS38/Synology-Drive-Pool-Add-6.png alt="Traffic Examination"/>
-</p>
+![Synology DrivePoolAdd-6](https://github.com/user-attachments/assets/a624691b-6a7c-49a9-ac16-ce5407f74bc5)
+
 <br />
 <br />
 
