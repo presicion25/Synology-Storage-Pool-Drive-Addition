@@ -1,4 +1,4 @@
-<p align="center">
+<p>
 <img src="https://i.ibb.co/H6YsDNM/Drive-Pool-Expansion-Main.png alt="Traffic Examination"/>
 </p>
 
